@@ -27,7 +27,7 @@ your_ip="192.168.XXX.XXX"
 #your_hostname="my_computer.local"
 
 # Specify ROS distribution (e.g. kinetic, indigo, hydro, etc.)
-ros_version="kinetic"
+ros_version="noetic"
 #-----------------------------------------------------------------------------#
 
 tf=$(mktemp)
