@@ -20,7 +20,7 @@ from sensor_msgs.msg import Image
 from intera_core_msgs.msg import IONodeConfiguration
 
 import intera_dataflow
-from robot_params import RobotParams
+from .robot_params import RobotParams
 from intera_io import IODeviceInterface
 
 
